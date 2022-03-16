@@ -1,5 +1,10 @@
 ### Hi there 👋
+- I'm currently learning about Big Data, Machine Learning
 - Programming enthusiast
+- Pair programing
+- Contact me: 
+  - https://www.linkedin.com/in/andr%C3%A9s-carvajal-andrade-a96897171/
+  - https://github.com/AndresCACore
 <!--
 **AndresCACore/AndresCACore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
