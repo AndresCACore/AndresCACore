@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I'm currently learning about Big Data, Machine Learning
+- I'm currently learning about Big Data & Machine Learning
 - Programming enthusiast
 - Pair programing
 - Contact me: 
